@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">A simple placeholder image for a personal academic homepage portrait.</desc>
+  <rect width="480" height="600" fill="#e8eef5"/>
+  <circle cx="240" cy="210" r="82" fill="#b9c8d9"/>
+  <path d="M112 478c18-94 73-146 128-146s110 52 128 146" fill="#b9c8d9"/>
+  <rect x="68" y="52" width="344" height="496" rx="8" fill="none" stroke="#8da1b8" stroke-width="12"/>
+</svg>
