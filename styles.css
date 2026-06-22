@@ -293,6 +293,24 @@ a:focus {
   white-space: nowrap;
 }
 
+.news-list {
+  margin: 0;
+  padding-left: 26px;
+  display: grid;
+  gap: 12px;
+  color: #464d4f;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.news-date {
+  font-weight: 700;
+}
+
+.news-highlight {
+  color: #2b7fbd;
+}
+
 .publication-list {
   margin: 0;
   display: grid;
